@@ -1,0 +1,106 @@
+Computer Science (0)     
+    Elective I (0)     
+        Advanced computer architecture (0)
+        Advanced database management system (0)      
+        Mobile computing (0)      
+        Natural language processing (0)     
+    Elective II (0)      
+        Advanced web applications (0)     
+        Embedded systems (0)      
+        Optimization techniques (0)      
+        Simulation and modelling (0)     
+    Elective III (0)      
+        Design of UNIX OS (0)     
+        Network programming (0)      
+        Parallel computing (0)      
+        Virtual reality (0)     
+    Elective IV (0)      
+        Advanced networking TCP/IP (0)     
+        Big data (0)      
+        Real time systems (0)      
+        Semantic web (0)      
+        Wireless and sensor networks (0)     
+    Sem 2 (0)      
+        Computer Fundamentals and Programming (0)
+            Simple
+                Q. What will be the output of following for loop in C?
+                Q. Which among the following is not an input device?
+                Q. Which all actions are taken by BIOS during system startup?
+                Q. Which of the following memory type will loose data on power loss?
+                Q. Which among the following will be properties of a 64bit computer system?
+                Q. Which among the following are compiled languages?
+                Q. Which among the following are interpreted languages?
+                Q. Convert 001101111100 to hexadecimal and octal.
+                Q. Which among the following are high level programming languages?
+                Q. Which file descriptors are STDIN, STDOUT and STDERR in C on UNIX like systems?
+                Q. Why global variable should not avoided?
+                Q. Why go to should be avoided?
+                Q. What are differeces between C unions and Structures?
+                Q. What are differeces between C macros and functions?
+                Q. What are the ways to pass arguments to C functions?
+                Q. Which among the folliwing defines UNIX OS? (Multi-user, multi-processor, multi-tasking, time-sharing)
+                Q. Which among following are the properties of real time operating systems?
+                Q. Which among the following is fastest memory in computer system? (Register, RAM, ROM, Cache)
+                *Q. How are functions, subroutines, procedures different
+            Medium
+                Q. 
+            Complex
+                Q. 
+    Sem 3 (0)
+        C (0)  
+            Simple
+                Q. Which among the following is correct malloc call syntax?
+                Q. What will be the size of following c structure variables?
+                Q. What will be the size of following c union variables?
+                Q. Identify local and global variables in the following code.
+                Q.  
+            Medium
+                Q. 
+            Complex
+                Q. 
+        C++ (0) 
+            Simple
+                Q.      
+            Medium
+                Q. 
+            Complex
+                Q. 
+        Computer organization (0)      
+        Data Structures (0)      
+            Simple
+                Q. Which among the following data structure has constant search time?
+                Q. Which among folliwing data structures have constant insert/ update time?
+                Q. Which data structure will be best suited for storing mobile phone numbers?
+                Q. 
+            Complex
+                Q. 
+        Discrete mathematics (0)      
+        Operating systems concepts (0)     
+    Sem 4 (0)      
+        Computer based numerical and statistical techniques (0)     
+        Database management systems (0)      
+        Data communication and networks (0)      
+        Design and analysis of algorithms (0)      
+        Introduction to microprocessors (0)      
+        Software engineering (0)     
+    Sem 5 (0)      
+        Artificial intelligence (0)     
+        Computer architecture (0)      
+        Computer graphics (0)      
+        Internet technologies (0)      
+        Java programming (0)      
+        Theory of computation (0)     
+    Sem 6 (0)      
+        Compiler design (0)     
+        Multimedia technology (0)      
+        Object modelling techniques and UML (0)      
+        Principles of programming languages (0)      
+        Web technologies and e-commerce (0)     
+    Sem 7 (0)      
+        Cryptography and Network security (0)     
+        Data mining and warehousing (0)      
+        Digital image processing (0)      
+        Distributed computing (0)     
+    Sem 8 (0)     
+Default for System (0)
+The default category for questions shared in context 'System'.
