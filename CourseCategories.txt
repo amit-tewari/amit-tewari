@@ -38,7 +38,7 @@ Computer Science (0)
                 Q. What are differeces between C unions and Structures?
                 Q. What are differeces between C macros and functions?
                 Q. What are the ways to pass arguments to C functions?
-                Q. Which among the folliwing defines UNIX OS? (Multi-user, multi-processor, multi-tasking, time-sharing)
+                Q. Which among the following defines UNIX OS? (Multi-user, multi-processor, multi-tasking, time-sharing)
                 Q. Which among following are the properties of real time operating systems?
                 Q. Which among the following is fastest memory in computer system? (Register, RAM, ROM, Cache)
                 *Q. How are functions, subroutines, procedures different
@@ -65,17 +65,60 @@ Computer Science (0)
                 Q. 
             Complex
                 Q. 
-        Computer organization (0)      
+        Computer organization (0)
+            Simple
+                Q. RISC is correct abbreviation for:
+                Q. CISC is correct abbreviation for:
+                Q. Which among the following are the parts of CPU?
+                Q. Which among the following is not a memory cache type?
+                Q. Which among following are the usage of memory cache?
+                Q. Block device IO size is directly related to:
+                Q. Which among the following is not a buffering type?
+                Q. Which among the following is not an example of DMA (Direct Memory Access)?
+                Q. Which among the following are benefits of DMA (Direct Memory Access)?
+                Q. Which among the following are drawbacks of DMA (Direct Memory Access)?
+                Q. Which among following is example of associative memory?
+                Q. Which among the following are examples of serial communication?
+            Medium
+                Q. 
+            Complex
+                Q.
         Data Structures (0)      
             Simple
                 Q. Which among the following data structure has constant search time?
-                Q. Which among folliwing data structures have constant insert/ update time?
+                Q. Which among following data structures have constant insert/ update time?
                 Q. Which data structure will be best suited for storing mobile phone numbers?
-                Q. 
+                Q. What will be the in-order traversal output of following tree?
+                Q. What will be the pre-order traversal output of following tree?
+                Q. What will be the post-order traversal output of following tree?
+                Q. Which among the following are properties of a recursive function?
+                Q. Which among the following is the best data structure to store symbol tree?
+                Q. Which among the following is a hash function?
+                Q. Which among the following are properties of a good hashing function?
+                Q. What is lookup time commplexity of a hash tree?
+                Q. Which among the following is a precondition of binary search?
             Complex
                 Q. 
         Discrete mathematics (0)      
-        Operating systems concepts (0)     
+        Operating systems concepts (0)
+            Simple
+                Q. Which among the following describe UNIX/ Linux operating system?
+                Q. Which among the following are types of monolithic kernel?
+                Q. Which among the following are the types of micro kernel? 
+                Q. Which among the following are the properties of monolithic kernel?
+                Q. Which among the following are the properties of micro kernel?
+                Q. Which among the following are UNIX/ Linux system calls?
+                Q. Which among the following are differeces between processes and threads?
+                Q. Which among the following describe virtual memory ?
+                Q. Which among the following describe paging?
+                Q. Which among the following describe swapping?
+                Q. Which among the following will make cache incoherent in multi-processor systems
+                Q. Which among the following are necessary conditions for a deadlock to occur?
+            Medium
+                Q. Which among the following states allow scheduler to resume a process execution?   
+                Q. 
+            Complex
+                Q.  
     Sem 4 (0)      
         Computer based numerical and statistical techniques (0)     
         Database management systems (0)      
@@ -104,3 +147,9 @@ Computer Science (0)
     Sem 8 (0)     
 Default for System (0)
 The default category for questions shared in context 'System'.
+            Simple
+                Q.      
+            Medium
+                Q. 
+            Complex
+                Q. 
