@@ -53,7 +53,7 @@ Computer Science (0)
                 Q. What will be the size of following c structure variables?
                 Q. What will be the size of following c union variables?
                 Q. Identify local and global variables in the following code.
-                Q.  
+                Q. 
             Medium
                 Q. 
             Complex
@@ -122,8 +122,35 @@ Computer Science (0)
     Sem 4 (0)      
         Computer based numerical and statistical techniques (0)     
         Database management systems (0)      
-        Data communication and networks (0)      
-        Design and analysis of algorithms (0)      
+        Data communication and networks (0)
+            Simple
+                Q. Which among following is not a DNS record type?
+                Q. Which among following is not a LAN protocol?
+                Q. What is sequence of SYN and ACK packets in 3-Way handshake?
+                Q. Which is the first application level network protocol used in web browsing?
+                Q. Which is the network application protocol used for sending emails?
+                Q. Which among following are network application protocols for fetching emails?
+                Q. Which among following are network application protocols for transmitting files?
+                Q. Which among following are network application protocols for audio/ video?
+                Q. How many bits are used in TCP header?
+                Q. How many bits are used in UDP header?
+                Q. How many bits are used in IPv4 header?
+                Q. What is maximum size of a TCP packet?
+                Q. Which among following are transport layer protocols?
+                Q. Which among the following are differences between encoding and encryption?
+            Medium
+                Q. 
+            Complex
+                Q. Which protocol is used by traceroute command?
+        Design and analysis of algorithms (0)
+            Simple
+                Q. Which among the following algorithm will be fastest sorting algorithm for mostly sorted data?
+                Q. Which among the following algorithm has highest average time complexity?
+                Q. What is the time complexity of 2D matrix multiplications?
+            Medium
+                Q. 
+            Complex
+                Q.
         Introduction to microprocessors (0)      
         Software engineering (0)     
     Sem 5 (0)      
